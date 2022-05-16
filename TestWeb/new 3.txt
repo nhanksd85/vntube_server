@@ -1,0 +1,5 @@
+http://localhost:60220/api/tv101_simplest?original=http://tv.101vn.com/ok/sctv/vinhlong1_1.php?id0=1&id1=2&id2=3
+http://localhost:60220/api/tv101_simplest?original=http://tv.101vn.com/ok/vtv/vtv11.php?id0=1&id1=2&id2=3
+http://localhost:60220/api/tv101_simplest?original=http://tv.101vn.com/ok/vtv/vtv3_1.php?id0=1&id1=2&id2=3
+http://localhost:60220/api/tv101_simplest?original=http://tv.101vn.com/ok/htv/htv7_1.php?id0=1&id1=2&id2=3
+http://localhost:60220/api/tv101_simplest?original=http://tv.101vn.com/ok/htv/htv9_1.php?id0=1&id1=2&id2=3

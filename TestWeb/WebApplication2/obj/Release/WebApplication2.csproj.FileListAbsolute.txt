@@ -1,0 +1,176 @@
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\WebApplication2.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Http.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\WebGrease.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Http.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\obj\Release\WebApplication2.dll
+C:\Users\Carem\Desktop\THUAN\C#\ServerTestANhan\TestWeb\WebApplication2\obj\Release\WebApplication2.pdb
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\WebApplication2.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Net.Http.Formatting.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.WebHost.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\WebGrease.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Net.Http.Formatting.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.WebHost.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\obj\Release\WebApplication2.dll
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\obj\Release\WebApplication2.pdb
+C:\Users\Le Trong Nhan\Desktop\TestWeb\WebApplication2\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+D:\Desktop\TestWeb\WebApplication2\bin\ApplicationInsights.config
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\csc.exe
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\vbc.exe
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\TestWeb\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\TestWeb\WebApplication2\bin\WebApplication2.dll.config
+D:\Desktop\TestWeb\WebApplication2\bin\WebApplication2.dll
+D:\Desktop\TestWeb\WebApplication2\bin\WebApplication2.pdb
+D:\Desktop\TestWeb\WebApplication2\bin\Antlr3.Runtime.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.Web.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Newtonsoft.Json.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Net.Http.Formatting.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Helpers.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.WebHost.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Mvc.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Optimization.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Razor.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.dll
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\TestWeb\WebApplication2\bin\WebGrease.dll
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.Web.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Newtonsoft.Json.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Net.Http.Formatting.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Helpers.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Http.WebHost.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Mvc.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Optimization.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.Razor.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\TestWeb\WebApplication2\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\TestWeb\WebApplication2\bin\Antlr3.Runtime.pdb
+D:\Desktop\TestWeb\WebApplication2\obj\Release\WebApplication2.csprojResolveAssemblyReference.cache
+D:\Desktop\TestWeb\WebApplication2\obj\Release\WebApplication2.dll
+D:\Desktop\TestWeb\WebApplication2\obj\Release\WebApplication2.pdb
