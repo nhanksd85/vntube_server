@@ -59,7 +59,7 @@ namespace WebApplication2.Controllers
 
                     long test_update = (current_Time - local_Time) / 1000;
 
-                    if (test_update > 50 * 60 * 60)//50 hour
+                    if (test_update > 0 * 60 * 60)//50 hour
                     {
                         //getMainChannel("http://ubc.dauthutruyenhinh.com:2080/NPNMedia/npnmedia_main.txt");
                         getMainChannel("https://ubc-store-tmp1.npnlab.com/youtubevn/npnmedia_main.txt");
